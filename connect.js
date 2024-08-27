@@ -1,16 +1,14 @@
-/**
-░█▀▀█ ░█▀▀█ ─█▀▀█ ░█▀▀█ ─█▀▀█ ▀▀█▀▀ ░█─░█ ── ░█▀▄▀█ ░█▀▀▄ 
-░█▄▄█ ░█▄▄▀ ░█▄▄█ ░█▀▀▄ ░█▄▄█ ─░█── ░█▀▀█ ▀▀ ░█░█░█ ░█─░█ 
-░█─── ░█─░█ ░█─░█ ░█▄▄█ ░█─░█ ─░█── ░█─░█ ── ░█──░█ ░█▄▄▀
 
 
-* @project_name PRABATH-MD
-* @authors Prabath Kumara & sachibot-team(Sachintha) <https://github.com/prabathLK>
+
+
+* @project_name Thejana-MD
+* @authors Thejana pansilu & sachibot-team(Sachintha) <https://github.com/thejanaofc/pansilu12>
 * @description The main hope of creating this bot is to take full advantage of the WhatsApp app and make its work easier
-* @link <https://github.com/prabathLK/PRABATH-MD>
+* @link <https://github.com/thejanaofc/pansilu12>
 * @version 2.1.2
 
-© 2023 Prabath Kumara, SACHI-BOT. All rights reserved.
+© 2023 Thejana pansilu, SACHI-BOT. All rights reserved.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.*/
 
